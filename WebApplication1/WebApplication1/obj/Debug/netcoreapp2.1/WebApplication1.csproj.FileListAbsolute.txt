@@ -21,3 +21,28 @@ C:\Users\pachie\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreap
 C:\Users\pachie\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.RazorTargetAssemblyInfo.cs
 C:\Users\pachie\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.Views.pdb
 C:\Users\pachie\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.csproj.CopyComplete
+\\Mac\Home\Desktop\GitProjects\Windows\Samples\MVC Core WebApp\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.deps.json
+\\Mac\Home\Desktop\GitProjects\Windows\Samples\MVC Core WebApp\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.runtimeconfig.json
+\\Mac\Home\Desktop\GitProjects\Windows\Samples\MVC Core WebApp\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.runtimeconfig.dev.json
+\\Mac\Home\Desktop\GitProjects\Windows\Samples\MVC Core WebApp\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.dll
+\\Mac\Home\Desktop\GitProjects\Windows\Samples\MVC Core WebApp\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.pdb
+\\Mac\Home\Desktop\GitProjects\Windows\Samples\MVC Core WebApp\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.Views.dll
+\\Mac\Home\Desktop\GitProjects\Windows\Samples\MVC Core WebApp\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.Views.pdb
+\\Mac\Home\Desktop\GitProjects\Windows\Samples\MVC Core WebApp\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\GitProjects\Windows\Samples\MVC Core WebApp\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\GitProjects\Windows\Samples\MVC Core WebApp\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.RazorAssemblyInfo.cache
+\\Mac\Home\Desktop\GitProjects\Windows\Samples\MVC Core WebApp\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.RazorAssemblyInfo.cs
+\\Mac\Home\Desktop\GitProjects\Windows\Samples\MVC Core WebApp\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\GitProjects\Windows\Samples\MVC Core WebApp\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.AssemblyInfo.cs
+\\Mac\Home\Desktop\GitProjects\Windows\Samples\MVC Core WebApp\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.TagHelpers.input.cache
+\\Mac\Home\Desktop\GitProjects\Windows\Samples\MVC Core WebApp\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.TagHelpers.output.cache
+\\Mac\Home\Desktop\GitProjects\Windows\Samples\MVC Core WebApp\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.RazorCoreGenerate.cache
+\\Mac\Home\Desktop\GitProjects\Windows\Samples\MVC Core WebApp\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+\\Mac\Home\Desktop\GitProjects\Windows\Samples\MVC Core WebApp\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.RazorTargetAssemblyInfo.cache
+\\Mac\Home\Desktop\GitProjects\Windows\Samples\MVC Core WebApp\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.RazorTargetAssemblyInfo.cs
+\\Mac\Home\Desktop\GitProjects\Windows\Samples\MVC Core WebApp\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.Views.pdb
+\\Mac\Home\Desktop\GitProjects\Windows\Samples\MVC Core WebApp\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.dll
+\\Mac\Home\Desktop\GitProjects\Windows\Samples\MVC Core WebApp\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.pdb
+\\Mac\Home\Desktop\GitProjects\Windows\Samples\MVC Core WebApp\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.csproj.CopyComplete
+\\Mac\Home\Desktop\GitProjects\Windows\Samples\MVC Core WebApp\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+\\Mac\Home\Desktop\GitProjects\Windows\Samples\MVC Core WebApp\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ViewStart.g.cshtml.cs

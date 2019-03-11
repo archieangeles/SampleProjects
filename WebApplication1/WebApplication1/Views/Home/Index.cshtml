@@ -1,12 +1,10 @@
-﻿@model IEnumerable<WebApplication1.Models.Person>
-@{
-    
-}
-
-<h2>@ViewBag.Title</h2>
+﻿@model WebApplication1.ViewModels.PersonViewModels
 
 
-@foreach(var p in Model)
+<h2>@Model.Title</h2>
+
+
+@foreach(var p in Model.Person)
 {
     <div>
 

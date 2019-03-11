@@ -12538,11 +12538,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pachie\\source\\repos\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "\\\\Mac\\Home\\Desktop\\GitProjects\\Windows\\Samples\\MVC Core WebApp\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
       "projectName": "WebApplication1",
-      "projectPath": "C:\\Users\\pachie\\source\\repos\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectPath": "\\\\Mac\\Home\\Desktop\\GitProjects\\Windows\\Samples\\MVC Core WebApp\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
       "packagesPath": "C:\\Users\\pachie\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pachie\\source\\repos\\WebApplication1\\WebApplication1\\obj\\",
+      "outputPath": "\\\\Mac\\Home\\Desktop\\GitProjects\\Windows\\Samples\\MVC Core WebApp\\WebApplication1\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -13,11 +13,19 @@ namespace WebApplication1.Controllers
 
         public IActionResult Index()
         {
-            ViewBag.Title = "Sample MVC Core Ko 1.2";
+            
 
-            var model = _personRepo.GetAllPerson().OrderBy(p => p.FirstName);
+            //var model = _personRepo.GetAllPerson().OrderBy(p => p.FirstName);
 
-            return View(model);
+
+            var personViewModel = new ViewModels.PersonViewModels()
+            {
+                Person = _personRepo.GetAllPerson().OrderBy(p => p.FirstName).ToList()
+                 ,
+                Title = "Sample MVC Core Ko 1.2"
+            };
+
+            return View(personViewModel);
         }
 
         public HomeController(Models.IPersonRepository personRepo)
